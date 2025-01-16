@@ -1,5 +1,5 @@
 {
-    'name': 'Report Direct Print',
+    'name': 'PDF Report Redirect',
     'version': '15.0.1.0.0',
     'category': 'Tools',
     'summary': 'Directly print reports from the browser',
