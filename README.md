@@ -11,7 +11,7 @@ The Odoo PDF Report Redirect Module is designed to enhance the user experience b
 ## Installation
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/giladoo/sd_print.git
+    git clone -b 15.0 https://github.com/giladoo/sd_print.git
     ```
 2. Add the module to your Odoo `addons` directory.
 3. Update the module list and install the "PDF Report Redirect" module from the Odoo app list.
